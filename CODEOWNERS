@@ -1,0 +1,5 @@
+/CODEOWNERS @kakakakakku
+
+/packages/app1 @kakakakakku
+/packages/app2 @kakakakakku-sandbox
+/packages/app3 @kakakakakku-corp/app3-developers
